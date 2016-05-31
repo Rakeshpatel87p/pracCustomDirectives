@@ -1,0 +1,16 @@
+.pageContainer {
+	width:50%;
+	height:auto;
+}
+
+.brand-logo {
+	background-image: url(http://imjustcreative.co.uk/brandlegends/wp-content/uploads/2013/09/Converse-Brand-Logo-Designed-1970s-by-Jim-Labadini.jpg);
+	width:auto;
+	height:200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.floatR {
+	float:right;
+}
